@@ -1,0 +1,10 @@
+1.PyPDF2 version 3.0.1
+  You can install PyPDF2 via pip:
+    pip install PyPDF2
+    
+2.fitz
+  You can import this library from PyMuPDF
+    pip install PyMuPDF
+3.os
+
+4.json

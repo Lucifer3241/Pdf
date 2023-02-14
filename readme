@@ -17,7 +17,7 @@ The sample files in the repository are of diffrent types
   2.sample2(file size greater than 5Mb)
   3.sample3(multiple page pdf with images)
   4.sample4(currupted pdf)
-  5.sample6(empty pdf with no content)
+  5.sample5(empty pdf with no content)
 
 
 Change the name of the file variable in the code to run multiple inputs.

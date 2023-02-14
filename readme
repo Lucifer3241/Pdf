@@ -1,0 +1,20 @@
+This code is used for pdf parsing
+They include multiple functions
+  1.size_check()
+    This function is to check if the file is greater than 5Mb. It will print a meassage and exit else it will return nothing.
+  2.error_check()
+    This function can be used to check if the file is currupted or not. It will print a message and exit if the pdf is currupted else it will return nothing.
+  3.empty_check()
+    It can be used to check if the pdf is empty or not. It will print a message if the pdf is blanck else it will return nothing
+  4.extract_text()
+    It is used to extract text from the pdf page by page and store it in a json file named as text.json. The text will be stored according to page numbers.
+  5.extract_images()
+    It can be used to extract images from a pdf and save it in the same folder with .png extention.
+    
+    
+The sample files in the repository are of diffrent types
+  1.sample1(single page pdf)
+  2.sample2(file size greater than 5Mb)
+  3.sample3(multiple page pdf with images)
+  4.sample4(currupted pdf)
+  5.sample6(empty pdf with no content)
